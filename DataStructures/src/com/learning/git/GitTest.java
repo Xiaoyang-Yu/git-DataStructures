@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("第2次版本提交");
         System.out.println("第3次版本提交");
         System.out.println("hot-fix 第4次版本提交");
+        System.out.println("hot-fix分支测试代码合并冲突");
     }
 }
