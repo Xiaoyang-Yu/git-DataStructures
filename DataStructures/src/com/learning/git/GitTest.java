@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("hot-fix分支测试代码合并冲突");
 
         System.out.println("push测试");
+        System.out.println("pull测试");
     }
 }
